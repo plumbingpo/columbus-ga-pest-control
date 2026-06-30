@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://columbuspestcontrolsquad.com/sitemap.xml
